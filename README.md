@@ -1,5 +1,8 @@
+![banner](https://res.cloudinary.com/dp7vqmwxz/image/upload/v1683750905/baann_eikcxz.png)
+
 <h1 align="center">Hola 👋, Soy Roderick</h1>
 <h3 align="center">Entusiasta de la programacion, con conocimientos para afrontar el area de front end y back end , en las tecnologias que actualmente manejo</h3>
+
 
 - 🔭 Proyecto final [CoderGame](https://coder-game.vercel.app/)
 
