@@ -19,7 +19,7 @@
      </a>
  </p>
  <p align="left">
- <a href="[https://api.whatsapp.com/send/?phone=543426106008&text&app_absent=0" target="_blank](https://wa.link/mcxwe0)">
+ <a href="https://wa.link/mcxwe0">
         <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me               /+undefined543426106008?text=Hola%20Alejandro,%20soy%20" height="40" width="40" />
     </a>
 </p>
