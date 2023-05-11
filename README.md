@@ -14,9 +14,8 @@
 </p>
 <p align="left">
  
- <a href="mailto:roderickrodriguez706@gmail.com">
-     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Walter Porta Gmail" height="50" width="50" />
-     </a>
+[![Email icon](https://img.icons8.com/color/48/000000/email.png)](mailto:roderickrodriguez706@gmail.com)
+
  </p>
  <p align="left">
  <a href="https://wa.link/mcxwe0">
