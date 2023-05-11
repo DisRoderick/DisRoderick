@@ -14,7 +14,11 @@
 </p>
 <p align="left">
  
-[![Email icon](https://img.icons8.com/color/48/000000/email.png)](mailto:roderickrodriguez706@gmail.com)
+<a href="mailto:roderickrodriguez706@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail icon" style="vertical-align:top; margin:4px">
+  Contacto
+</a>
+
 
  </p>
  <p align="left">
